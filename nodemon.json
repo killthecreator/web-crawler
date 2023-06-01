@@ -1,0 +1,6 @@
+{
+  "ignore": ["node_modules"],
+  "watch": ["."],
+  "exec": "ts-node ./crawler.ts https://github.com/killthecreator 0",
+  "ext": ".ts"
+}
