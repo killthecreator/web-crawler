@@ -4,7 +4,7 @@
   "version": "0.0.0",
   "type": "module",
   "scripts": {
-    "dev": "nodemon"
+    "dev": "ts-node ./crawler.ts"
   },
   "devDependencies": {
     "@types/node": "^20.2.5",
