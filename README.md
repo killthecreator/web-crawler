@@ -12,7 +12,7 @@ folder of the project. Each image is saved as an object in array in format
 To run the app you need to:
 
 1. Clone this repository and run `npm install` to load all the packages;
-2. Run the script with `npx ts-node crawler.ts <start_url: string> <depth: number>`
+2. Run the script with `npx ts-node crawler.ts <start_url: string> <depth: number>` or `npm run dev <start_url: string> <depth: number>`
 
 ## What is used
 

@@ -4,7 +4,7 @@ import { writeFile } from "fs/promises";
 import { fileURLToPath } from "url";
 import { resolve, dirname } from "path";
 import errorCheck from "./utils/errorHandler.js";
-import z from "zod";
+import { z } from "zod";
 
 const __dirname = dirname(fileURLToPath(import.meta.url));
 
